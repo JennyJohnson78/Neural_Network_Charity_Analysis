@@ -24,3 +24,6 @@ The model with the highest accuracy rate was 72.6% accurate.
 ## Summary
 
 This model achieved 72.6% accuracy with 55.7% data loss. Although the model did not achieve 75% accuracy, it did come close. If this model were being used to predict outcomes in medicine among patient diagnosis, this would not suffice, but for this purpose, the model comes close to the accuracy desired. The best way to increase the accuracy of the model would be to have more data. More data would make the accuracy of the model stronger.
+
+![image](https://user-images.githubusercontent.com/67409852/151640445-91fc5edc-9988-43f8-a8d3-81e64e07bc85.png)
+
