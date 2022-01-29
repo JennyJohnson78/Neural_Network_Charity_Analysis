@@ -13,9 +13,11 @@ except the ones that will be dropped.
 
 ### Compiling, Training, and Evaluating the Model
 
--
--
--
+The model with the highest accuracy rate was 72.6% accurate.
+
+- 120 neurons were used, spread across three layers (80, 30, and 10). The activation functions used were ReLU for hidden layers 1-3, and sigmoid for the output layer.
+- It was not possible to reach 75% accuracy with any model. After consulting with two other colleagues, they divulged that they were not able to reach 75% accuracy either.
+- In an attempt to reach 75% accuracy, the number of neurons on one of the hidden layers were increased, and then a model with three hidden layers was used. When these modifications did not work, the tanh activation function was tried. None of these increased the model's accuracy.
 
 ## Results
 
