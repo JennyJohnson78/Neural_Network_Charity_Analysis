@@ -22,3 +22,5 @@ The model with the highest accuracy rate was 72.6% accurate.
 - In an attempt to reach 75% accuracy, the number of neurons on one of the hidden layers were increased, and then a model with three hidden layers was used. When these modifications did not work, the tanh activation function was tried. None of these increased the model's accuracy.
 
 ## Summary
+
+This model achieved 72.6% accuracy with 55.7% data loss. Although the model did not achieve 75% accuracy, it did come close. If this model were being used to predict outcomes in medicine among patient diagnosis, this would not suffice, but for this purpose, the model comes close to the accuracy desired. The best way to increase the accuracy of the model would be to have more data. More data would make the accuracy of the model stronger.
