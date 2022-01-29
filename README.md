@@ -6,9 +6,10 @@ Alphabet Soup is non-profit, philanthropic organization that helps charities tha
 
 ### Data Preprocessing
 
--
--
--
+- The feature that is being targeted in this dataset is the IS_SUCCESSFUL column.
+- The features being used are every column (APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT)  
+except the ones that will be dropped.
+- The featuress to be dropped are the EIN and NAME columns.
 
 ### Compiling, Training, and Evaluating the Model
 
